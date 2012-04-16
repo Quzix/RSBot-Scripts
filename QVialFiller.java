@@ -61,6 +61,7 @@ public class QVialFiller extends ActiveScript implements PaintListener{
 	@Override
 	protected void setup() {	
 		
+		
 		FillVials fv = new FillVials();
 		DoBank db = new DoBank();
 		WalkToFountain wtf = new WalkToFountain();
